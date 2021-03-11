@@ -1,3 +1,7 @@
+<div>1:Una vez clonado el proyecto, subir el archivo db_padel.sql a un servidor de base de datos mysql, por ejemplo xamp
+2: ejecutar composer update
+3: finalmente ejecutamos  el comando php artisan serve </div>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
