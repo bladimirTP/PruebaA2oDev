@@ -1,4 +1,4 @@
--1:Una vez clonado el proyecto, subir el archivo db_padel.sql a un servidor de base de datos mysql, por ejemplo xamp
+-1:Una vez clonado el proyecto, subir el archivo db_padel.sql a un servidor de base de datos mysql, por ejemplo xampp
 -2: ejecutar composer update
 -3: finalmente ejecutamos  el comando php artisan serve 
 
